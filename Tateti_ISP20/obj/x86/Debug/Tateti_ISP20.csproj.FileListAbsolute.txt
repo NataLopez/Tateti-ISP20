@@ -1,0 +1,5 @@
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\Tateti_ISP20\bin\Debug\Tateti_ISP20.exe
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\Tateti_ISP20\bin\Debug\Tateti_ISP20.pdb
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\Tateti_ISP20\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\Tateti_ISP20\obj\x86\Debug\Tateti_ISP20.exe
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\Tateti_ISP20\obj\x86\Debug\Tateti_ISP20.pdb

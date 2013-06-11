@@ -1,0 +1,5 @@
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\TareaObicua\obj\x86\Debug\TareaObicua.exe
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\TareaObicua\obj\x86\Debug\TareaObicua.pdb
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\TareaObicua\bin\Debug\TareaObicua.exe
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\TareaObicua\bin\Debug\TareaObicua.pdb
+Z:\TECNICATURAS\Lopez Natali\PASANTIAS\PASANTIAS C#\TareaObicua\TareaObicua\obj\x86\Debug\ResolveAssemblyReference.cache
